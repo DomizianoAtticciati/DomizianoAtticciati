@@ -6,9 +6,9 @@
 
 Shopping Cart Rush => A mario-kart-like racing game
 
-[Care express](https://globalgamejam.org/2020/games/care-express-1) 
+[Care express](https://globalgamejam.org/2020/games/care-express-1) => A puzzle game where you need to deliver the right items to the right people in order to save their relationships.
 
-[Snail](https://globalgamejam.org/2019/games/snil)
+[Snail](https://globalgamejam.org/2019/games/snil) => A puzzle game where you need to draw a safe path and interact with the enviroment in order to save a little snail.
 
 [Trick Or Treat](https://github.com/Leonardo-Fiori/trickortreat)  => A strategic puzzle game where you must escape from  an evil witch!
 

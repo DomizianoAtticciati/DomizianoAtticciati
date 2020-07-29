@@ -1,6 +1,15 @@
-# Work in progress . . . 
+# Domiziano Atticciati
 
-![](./Images/pippo-col-sigarojpg.jpg)
+![](./Images/curriculum_pic.jpg)
+
+## About Me
+
+
+Hello! I'm Domiziano, a Unity Developer ![](./Images/smile.png) My favorites development areas are Gameplay Programming and UI Programming but I am eager to explore all the other branches of video game development!
+ 
+ Here there are some of my projects, I hope you'll like them!
+
+ 
 
 ## Projects
 

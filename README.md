@@ -1,7 +1,5 @@
 # Domiziano Atticciati
 
-![](./Images/curriculum_pic.jpg)
-
 ## About Me
 
 

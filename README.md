@@ -12,6 +12,8 @@ Here there are some of my projects, I hope you'll like them!
 
 ## Projects
 
+GoldHeadsetsParty => An app that synchronizes locally a multitude of VR devices of differents brands in a room to allow synchronized viewing of a video in virtual reality using ambisonic audio technology and remote control of each player.
+
 [Shopping Cart Rush](https://drive.google.com/file/d/1LVEtFjZvi6NoKusJ0LomPotycTWH84LR/view?usp=sharing) => A mario-kart-like racing game
 
 [Bandit Jump](https://drive.google.com/file/d/1zPDlI_GAnlY5wdcpfAR5NML70lh5v6BE/view?usp=sharing) => A mobile platform game soon available on Play Store! 
@@ -31,8 +33,6 @@ Here there are some of my projects, I hope you'll like them!
 [Gaser](https://play.google.com/store/apps/details?id=com.goldenterprise.gruppogaser&gl=IT) => An easily scalable business app made for show 360-degrees videos using google cardboard SDK and more informations about the company. The app has been published both on Google Play Store and Apple App Store.
 
 [IdeaToscana](https://play.google.com/store/apps/details?id=com.goldenterprise.ideaToscana&gl=IT) => An easily scalable business app made for show 360-degrees videos using google cardboard SDK and more informations about the company. The app has been published both on Google Play Store and Apple App Store.
-
-GoldHeadsetsParty => An app that synchronizes a multitude of VR devices in a room to allow synchronized viewing of a video in virtual reality.
 
 
 

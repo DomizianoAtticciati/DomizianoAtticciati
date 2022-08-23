@@ -3,14 +3,16 @@
 ## About Me
 
 
-Hello! I'm Domiziano, a Unity Developer! I've developed mobile,desktop, and VR apps mainly using Unity!
-I'm 26 and I live in Siena, Italy!
+Hello! I'm Domiziano, a .NET and Unity Developer!
+I'm 27 and I live in Siena, Italy!
 
-Here there are some of my projects, I hope you'll like them!
+I've made mobile,desktop, and VR apps, here there are some of my projects, I hope you'll like them!
 
  
 
 ## Projects
+
+SoftwareUpdater => A desktop application that silently updates business applications, relying on sharepoint and ASP NET Core API.
 
 GoldHeadsetsParty => An app that synchronizes locally a multitude of VR devices of differents brands in a room to allow synchronized viewing of a video in virtual reality using ambisonic audio technology and remote control of each player.
 

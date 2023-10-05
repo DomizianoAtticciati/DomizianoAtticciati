@@ -1,8 +1,11 @@
-# Domiziano Atticciati
+# Domiziano Atticciati ![Ita Flag](./images/itaflag.png)
+
+[Click here for the english version](#eng)
+
 
 Ciao! Sono Domiziano, sviluppatore sia .NET che Unity!
 Ho 28 anni e vivo a Siena!
-Ho creato app per dispositivi mobile, desktop e VR, ecco alcuni dei miei progetti, spero ti piacciano!
+Ho creato app per dispositivi mobile, desktop, web e VR, ecco alcuni dei miei progetti, spero ti piacciano!
 
 
 ## Progetti
@@ -30,7 +33,7 @@ GoldHeadsetsParty => Un'app sviluppata come solo-dev che sincronizza una moltitu
 [Gaser](https://play.google.com/store/apps/details?id=com.goldenterprise.gruppogaser&gl=IT) & [IdeaToscana](https://play.google.com/store/apps/details?id=com.goldenterprise.ideaToscana&gl=IT) => Due app aziendali facilmente scalabili create per mostrare video a 360 gradi utilizzando il kit SDK di Google Cardboard e varie informazioni sull'azienda. Le app sono state pubblicate su Google Play Store e App Store.
 
 
-## About Me
+## About Me ![Eng Flag](./images/engflag.png) <a name="eng"></a>
 
 
 Hello! I'm Domiziano, a .NET and Unity Developer!

@@ -1,16 +1,16 @@
-# Domiziano Atticciati ![Ita Flag](./images/itaflag.png)
-
+# Domiziano Atticciati 
 [Click here for the english version](#eng)
 
+## Bio <img src="./Images/itaflag.png" width="25"> 
 
 Ciao! Sono Domiziano, sviluppatore sia .NET che Unity!
 Ho 28 anni e vivo a Siena!
 Ho creato app per dispositivi mobile, desktop, web e VR, ecco alcuni dei miei progetti, spero ti piacciano!
 
 
-## Progetti
+## Progetti 
 
-SoftwareUpdater => Una console application che aggiorna in background gli applicativi aziendali, affidandosi a SharePoint e utilizzando ASP.NET Core API.
+SoftwareUpdater => Una console application che aggiorna in background gli applicativi aziendali, affidandosi a SharePoint e utilizzando ASP.NET Core.
 
 GoldHeadsetsParty => Un'app sviluppata come solo-dev che sincronizza una moltitudine di dispositivi VR, anche di diversi brand, in locale, per consentire la visione simultanea di video in realtà virtuale utilizzando la tecnologia audio ambisonico di META e il controllo da remoto dei visori.
 
@@ -33,7 +33,7 @@ GoldHeadsetsParty => Un'app sviluppata come solo-dev che sincronizza una moltitu
 [Gaser](https://play.google.com/store/apps/details?id=com.goldenterprise.gruppogaser&gl=IT) & [IdeaToscana](https://play.google.com/store/apps/details?id=com.goldenterprise.ideaToscana&gl=IT) => Due app aziendali facilmente scalabili create per mostrare video a 360 gradi utilizzando il kit SDK di Google Cardboard e varie informazioni sull'azienda. Le app sono state pubblicate su Google Play Store e App Store.
 
 
-## About Me ![Eng Flag](./images/engflag.png) <a name="eng"></a>
+## About Me <img src="./Images/engflag.png" width="25">  <a name="eng"></a>
 
 
 Hello! I'm Domiziano, a .NET and Unity Developer!
@@ -43,7 +43,7 @@ I've made mobile,desktop, and VR apps, here there are some of my projects, I hop
  
 ## Projects
 
-SoftwareUpdater => A desktop application that silently updates business applications, relying on sharepoint and ASP NET Core API.
+SoftwareUpdater => A desktop application that silently updates business applications, relying on sharepoint and ASP NET Core.
 
 GoldHeadsetsParty => An app that synchronizes locally a multitude of VR devices of differents brands in a room to allow the simultaneous view of a video in virtual reality using ambisonic audio technology and remote control of each player.
 
